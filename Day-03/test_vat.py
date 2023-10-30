@@ -1,0 +1,2 @@
+systeminfo="Windows"
+print(systeminfo)
