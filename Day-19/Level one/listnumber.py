@@ -11,6 +11,6 @@ else :
 print ("Hey i am outside of loop")
 
 for l in "HelloWorld" :
-     if l == "o" :
-          break
-     print ("value is : ", l)
+    if l == "o" :
+        break
+    print ("value is : ", l)
